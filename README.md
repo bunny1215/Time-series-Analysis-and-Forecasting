@@ -8,4 +8,6 @@ csv file is about dataset and ipynb file is the code
 
 PDF is the report of the project. 
 
+Comments and feedbacks are welcome!
+
 
